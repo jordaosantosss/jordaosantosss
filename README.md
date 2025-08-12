@@ -1,8 +1,28 @@
 ## Matheus Jordão 
- 👋 Olá, eu sou o Matheus jordão santos 
-- 👀 I’m interested in Python Development, Data Analysis, and Business Analysis.
-- 🌱 I’m currently learning Python Development and Data Analysis at EBAC.
-- 💞️ I’m looking to collaborate on Python Automation and Data projects.
+# Olá, sou Matheus Jordão Santos!
+
+Sou formado em *Análise de Dados pela EBAC* e estou em processo de transição de carreira, buscando novas oportunidades para aplicar meus conhecimentos e desenvolver minhas habilidades profissionais.
+
+ Sobre mim
+
+Durante minha formação, adquiri uma sólida base em:
+
+- *Análise Estatística*
+- *Manipulação e Interpretação de Dados*
+
+Além disso, sou proficiente em ferramentas como:
+
+- *Python*
+- *SQL*
+- *Excel Avançado*
+
+Sou uma pessoa dedicada, com um perfil analítico e grande interesse em transformar dados em insights estratégicos para apoiar a tomada de decisões.
+
+ O que busco
+
+Estou entusiasmado para contribuir com minha capacidade analítica e aprendizado rápido em uma equipe que valoriza inovação e resultados. Acredito que minha formação e motivação são diferenciais que podem agregar valor à sua empresa.
+Agradeço pela oportunidade de apresentar meu perfil e estou à disposição para uma conversa onde posso detalhar como posso colaborar com os objetivos da sua equipe.
+
 
 ##
 Tecnologias que venho estudando:
